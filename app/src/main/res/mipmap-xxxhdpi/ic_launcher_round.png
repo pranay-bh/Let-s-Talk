@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a76f5c36-024a-4d3f-b1aa-baaa7a2c028e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="60a11042" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1du9Gbf73aQdznPDRLzs9m8GACB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-05T19:35:21.248Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="60a11042&#10;Pixel_3_XL_API_29" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-480632723">
+      <recent name="com.solvedunsolved.plantsymbiosis.suggestions" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\programming\app development\HSRW git\Plant Symbiosis\app\src\main\res\drawable" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.solvedunsolved.plantsymbiosis" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\programming\HSRW git\Plant Symbiosis\app\src\main\res\drawable" />
+      <recent name="D:\programming\HSRW git\Plant Symbiosis\app\src\main\res\layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.solvedunsolved.plantsymbiosis.ui in app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solvedunsolved.plantsymbiosis.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solvedunsolved.plantsymbiosis.ui" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.com.solvedunsolved.plantsymbiosis.ui in app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a76f5c36-024a-4d3f-b1aa-baaa7a2c028e" name="Default Changelist" comment="" />
+      <created>1593264016279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593264016279</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;added images&quot;">
+      <created>1593370885172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593370885176</updated>
+    </task>
+    <task id="LOCAL-00002" summary="environmental conditions added">
+      <created>1593677305159</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593677305160</updated>
+    </task>
+    <task id="LOCAL-00003" summary="environmental conditions added">
+      <created>1593767792722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593767792726</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added searches and improvising suggestions">
+      <created>1593767868764</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593767868764</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Application Completed !!!">
+      <created>1593973890785</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593973890786</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Spelling Corrections">
+      <created>1593974912135</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1593974912135</updated>
+    </task>
+    <task id="LOCAL-00007" summary="image compression">
+      <created>1593987288913</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1593987288918</updated>
+    </task>
+    <task id="LOCAL-00008" summary="debugging">
+      <created>1593987888317</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1593987888317</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&quot;added images&quot;" />
+    <MESSAGE value="environmental conditions added" />
+    <MESSAGE value="added searches and improvising suggestions" />
+    <MESSAGE value="Application Completed !!!" />
+    <MESSAGE value="Spelling Corrections" />
+    <MESSAGE value="image compression" />
+    <MESSAGE value="debugging" />
+    <option name="LAST_COMMIT_MESSAGE" value="debugging" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1593952398299">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1593952398299" />
+    <state x="372" y="343" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593987056070">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="372" y="343" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1593987056070" />
+    <state x="497" y="277" width="544" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593359205366">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="497" y="277" width="544" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1593359205366" />
+    <state x="566" y="298" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1593941326802">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="566" y="298" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.834@0.0.1536.834" timestamp="1593941326802" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593940189314">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1593940189314" />
+    <state x="349" y="172" key="AndroidCreateResourceDirectoryDialog" timestamp="1593941149571">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="172" key="AndroidCreateResourceDirectoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1593941149571" />
+    <state x="349" y="172" key="AndroidCreateResourceFileDialog" timestamp="1593934499844">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="172" key="AndroidCreateResourceFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1593934499844" />
+    <state x="626" y="248" key="AndroidCreateXmlResourceDialog" timestamp="1593952144656">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="626" y="248" key="AndroidCreateXmlResourceDialog/0.0.1536.834@0.0.1536.834" timestamp="1593952144656" />
+    <state x="232" y="2" key="CommitChangelistDialog2" timestamp="1593987887615">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="232" y="2" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1593987887615" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1593269569848">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1593269569848" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1593365910260">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1593365910260" />
+    <state width="1491" height="162" key="GridCell.Tab.0.bottom" timestamp="1593987941690">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="162" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593987941690" />
+    <state width="1491" height="162" key="GridCell.Tab.0.center" timestamp="1593987941690">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="162" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593987941690" />
+    <state width="1491" height="162" key="GridCell.Tab.0.left" timestamp="1593987941690">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="162" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593987941690" />
+    <state width="1491" height="162" key="GridCell.Tab.0.right" timestamp="1593987941690">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="162" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593987941690" />
+    <state x="349" y="160" key="IDE.errors.dialog" timestamp="1593268457312">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="160" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1593268457312" />
+    <state x="511" y="139" key="RollbackChangesDialog" timestamp="1593282050084">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="511" y="139" key="RollbackChangesDialog
