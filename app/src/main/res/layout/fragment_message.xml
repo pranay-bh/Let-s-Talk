@@ -260,7 +260,7 @@
                         android:layout_height="wrap_content"
                         android:layout_margin="10dp"
                         android:layout_marginEnd="16dp"
-                        android:text="Today"
+                        android:text="Yesterday"
                         android:textColor="#636363"
                         android:textSize="18sp"
                         app:layout_constraintBottom_toBottomOf="parent"
@@ -307,7 +307,8 @@
                             android:layout_width="60dp"
                             android:layout_height="60dp"
                             android:background="#FFFFFF"
-                            android:src="@drawable/b" />
+                            android:src="@drawable/b"
+                            android:contentDescription="TODO" />
 
                     </androidx.cardview.widget.CardView>
 
@@ -347,7 +348,7 @@
                         android:layout_height="wrap_content"
                         android:layout_margin="10dp"
                         android:layout_marginEnd="16dp"
-                        android:text="Today"
+                        android:text="30/05/2020"
                         android:textColor="#636363"
                         android:textSize="18sp"
                         app:layout_constraintBottom_toBottomOf="parent"
@@ -431,7 +432,7 @@
                         android:layout_height="wrap_content"
                         android:layout_margin="10dp"
                         android:layout_marginEnd="16dp"
-                        android:text="Today"
+                        android:text="29/05/2020"
                         android:textColor="#636363"
                         android:textSize="18sp"
                         app:layout_constraintBottom_toBottomOf="parent"
